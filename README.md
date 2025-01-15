@@ -1,5 +1,9 @@
+Olá, eu sou Esmenia Coutinho, seja bem-vindo ao meu portfólio e aproveite para ver um pouco da minha trajetória !!!
+_____________________________________________________________________________________________________________________
+
 ![image](https://github.com/user-attachments/assets/6b31a0a1-3bf5-458a-b21c-862a0c068212)
 
+_____________________________________________________________________________________________________________________
 Esmenia Coutinho, um apaixonado por tecnologia e inovação, dando os primeiros passos na jornada de Data Analitics. Durante meus estudos, desenvolvi projetos que desafiaram minha criatividade e aprimoraram minhas habilidades, aplicando práticas aprendidas em Bootcamp Data Analitics pela @WoMakersCode.
 
 Meu objetivo é criar soluções práticas e eficientes que façam a diferença. Tenho experiência em projetos acadêmicos e pessoais, abordando análise de dados, exploracão estatística e elaboracão visual, além de explorar meus conhecimentos com Python, SQL e Power BI.
