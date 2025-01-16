@@ -1,19 +1,20 @@
-Olá, eu sou Esmenia Coutinho, seja bem-vindo ao meu portfólio e aproveite para ver um pouco da minha trajetória !!!
+Olá, eu sou a Esmenia! 🌟
 
 _____________________________________________________________________________________________________________________
 
 ![image](https://github.com/user-attachments/assets/6b31a0a1-3bf5-458a-b21c-862a0c068212)
 
 _____________________________________________________________________________________________________________________
-Esmenia Coutinho, um apaixonado por tecnologia e inovação, dando os primeiros passos na jornada de Data Analitics. 
 
-Durante minha trajetória profissional, passei por um período off que foi profundamente significativo e transformador. Foi uma oportunidade única para me dedicar integralmente à minha família, cuidar da minha saúde e assumir um papel ativo no processo de imigração para um novo país e cultura. Hoje, com cidadania canadense e fluência no idioma, utilizo essa experiência como um diferencial.
+Com experiência em desenvolvimento de sistemas, hoje estou trilhando uma jornada no mundo de Data Analytics. 📊✨
 
-Esse intervalo também foi estratégico para meu crescimento pessoal e profissional. Aproveitei para me aprofundar nos estudos e traçar planos de longo prazo, alinhando minha sólida formação à paixão por Data Analytics. Durante meus estudos, desenvolvi projetos que desafiaram minha criatividade e aprimoraram minhas habilidades, aplicando práticas aprendidas em Bootcamp Data Analitics pela @WoMakersCode. Tenho experiência em projetos acadêmicos e pessoais, abordando análise de dados, exploracão estatística e elaboracão visual, além de explorar meus conhecimentos com Python, SQL e Power BI.
+Minha trajetória é marcada por um período off que foi extremamente transformador. Durante esse tempo, mergulhei em um processo de dedicação à minha família, autocuidado, adaptação a um novo país e aprendizado de uma nova língua e cultura. 🌍 Esse momento não apenas me trouxe crescimento pessoal, mas também moldou minha perspectiva profissional, tornando-me mais resiliente e adaptável para enfrentar desafios.
 
-Estou preparada para transformar dados em insights estratégicos, combinando resiliência, aprendizado contínuo e visão analítica. Acredito no poder da tecnologia para transformar ideias em resultados, e isso é o que me motiva a continuar aprendendo e construindo.
+Atualmente, estou profundamente envolvida na área de Data Analytics, que tem sido uma paixão e uma motivação constante. 🌈 Nos meus estudos, desenvolvi projetos desafiadores que testaram minha criatividade e ampliaram minhas habilidades, permitindo-me transformar dados em histórias e soluções práticas. Estes projetos envolvem análise de dados, exploração estatística e criação de visualizações. Ferramentas como Python, SQL e Power BI fazem parte do meu dia a dia, e cada vez mais tenho aprimorado minhas competências nelas para entregar resultados que realmente fazem a diferença. 🔄🔬
 
-Skills: Python / SQL / Power BI / Análise de dados
+Acredito no poder da tecnologia para impulsionar transformações e concretizar ideias – é isso que me move a continuar aprendendo e criando com paixão. ❤️
+
+✨ Skills: Python | SQL | Power BI | Análise de Dados ✨
 
 <!---
 esmenia-coutinho/esmenia-coutinho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
