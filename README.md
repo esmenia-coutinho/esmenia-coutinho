@@ -8,7 +8,7 @@ Experiência com:
 - Desenvolvimento com linguagem [python](https://github.com/esmenia-coutinho/python) e pyspark
 - Desenvolvimento de Pipeline e Arquitetura Medallion(Microsoft)
 - Engenharia de Dados:
-      - [Biblioteca pandas](https://github.com/esmenia-coutinho/Pandas)
+      - [Biblioteca pandas](https://github.com/esmenia-coutinho/Engenharia_Dados_Pandas.git)
       - [Databricks](https://github.com/esmenia-coutinho/databricks)
       - Fabric
 - Analise de Dados:
