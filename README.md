@@ -5,7 +5,7 @@ Trilhando uma jornada no mundo de Data Analytics e Data Engineering. 📊✨
 🌈 Focada em transformar dados em soluções para tomada de decisões estratégicas. 
 
 Experiência com:
-- Desenvolvimento com linguagem [python](https://github.com/esmenia-coutinho/python) e [pyspark](https://github.com/esmenia-coutinho/Databricks_Engenharia_de_Dados/blob/main/006_Consultas_Pyspark.ipynb)
+- Desenvolvimento com linguagem [Python](https://github.com/esmenia-coutinho/python) e [Pyspark](https://github.com/esmenia-coutinho/Databricks_Engenharia_de_Dados/blob/main/006_Consultas_Pyspark.ipynb)
 - Desenvolvimento de Pipeline e Arquitetura Medallion(Microsoft)
 - Engenharia de Dados:
       - [Biblioteca pandas](https://github.com/esmenia-coutinho/Pandas_Engenharia_Dados.git)
