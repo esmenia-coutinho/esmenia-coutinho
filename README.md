@@ -2,12 +2,14 @@
 
 ### Data Engineer | Microsoft Fabric | Databricks | Python | PySpark | SQL | Power BI
 
-I'm a **Data Engineer** focused on building reliable and scalable data solutions,from ingestion and transformation to data modeling, quality, analytics, and business insights.
-I enjoy combining **Data Engineering and Analytics** to transform raw data into trusted, business-ready solutions.
+I'm a **Data Engineer** who enjoys turning raw, complex data into reliable and useful solutions.
 
-Learning technology is also one of my hobbies.
-I enjoy studying, experimenting with new tools, building proof-of-concepts, and turning new concepts into practical projects.
-> **I believe great data professionals never stop learning.**
+I work across the data journey, from ingestion and transformation to modeling, data quality, and analytics.
+
+I'm naturally curious and enjoy learning new technologies, experimenting with ideas, and turning what I learn into practical projects.
+
+For me, data is about **learning, building, and continuously improving**.
+
 
 ---
 
